@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm St7530, a student and tech lover from China.
+
+I'm currently learing C# with my great passion.
+
+I'd like to build some cool projects on my own, hoping to make a contribution to the community.
+
+My blog on GitHub Pages: https://st7530.github.io/
