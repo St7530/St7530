@@ -21,4 +21,4 @@ I'm currently learning C# with my great passion.
 
 I'd like to build some cool projects on my own, hoping to make a contribution to the community.
 
-My blog on GitHub Pages: https://st7530.github.io/
+My blog: https://st7530.com/
