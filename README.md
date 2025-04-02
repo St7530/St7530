@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm St7530, a student and tech lover from China.
+I'm St7530, a student and tech lover from 🇨🇳 China.
 
-I'm currently learning C# with my great passion.
+Learning with my great passion!
 
 I'd like to build some cool projects on my own, hoping to make a contribution to the community.
 
