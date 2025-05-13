@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm St7530, a student and tech lover from 🇨🇳 China.
+I'm St7530, a student and tech lover from 🇨🇳China.
 
 Learning with my great passion!
 
